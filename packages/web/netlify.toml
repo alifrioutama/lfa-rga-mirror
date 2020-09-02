@@ -1,0 +1,4 @@
+[[redirects]]
+  from="/"
+  conditions = {Country = ["sg", "au", "nz"]}
+  to="/404"

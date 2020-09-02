@@ -1,0 +1,3 @@
+/country_redirect/*     /anz/:splat     302  Country=au
+/country_redirect/*     /sg/:splat      302  Country=sg
+/*    /country_redirect/:splat   302
